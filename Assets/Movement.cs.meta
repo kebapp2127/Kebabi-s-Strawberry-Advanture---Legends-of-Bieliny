@@ -1,2 +1,16 @@
 fileFormatVersion: 2
 guid: 799f942a703471341bdafe4f43456f45
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Kebabi: {instanceID: 0}
+  - KebabiLeft: {fileID: 21300000, guid: 64e992c02c2d95b49804c2f51db7d800, type: 3}
+  - KebabiRight: {fileID: 21300000, guid: 8468a30907fb6bc418972ee39e38b1d3, type: 3}
+  - KebabiUp: {fileID: 21300000, guid: 35f253d3bf3804a4e8ddf071b8c0f46c, type: 3}
+  - KebabiDown: {fileID: 21300000, guid: 52a4adaea94ce334b99c11f18f912b38, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
